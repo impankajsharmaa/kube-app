@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="035fa8ef-c106-4110-acac-759acb59eb2e" name="Changes" comment="new commit-02">
+    <list default="true" id="035fa8ef-c106-4110-acac-759acb59eb2e" name="Changes" comment="new commit-03">
       <change beforePath="$PROJECT_DIR$/vprodbdep.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vprodbdep.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661339960265</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new commit-03">
+      <created>1661340265370</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661340265370</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new commit-03">
+      <created>1661340491421</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661340491421</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +131,7 @@
     <MESSAGE value="new commit" />
     <MESSAGE value="new commit-01" />
     <MESSAGE value="new commit-02" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit-02" />
+    <MESSAGE value="new commit-03" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit-03" />
   </component>
 </project>
