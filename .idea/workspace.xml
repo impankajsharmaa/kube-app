@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="035fa8ef-c106-4110-acac-759acb59eb2e" name="Changes" comment="new commit-03">
-      <change afterPath="$PROJECT_DIR$/mcdep.yml" afterDir="false" />
+    <list default="true" id="035fa8ef-c106-4110-acac-759acb59eb2e" name="Changes" comment="memcached">
+      <change afterPath="$PROJECT_DIR$/mc-CIP.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rbmqdep.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcdep.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mcdep.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661341747397</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="memcached">
+      <created>1661342304399</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1661342304399</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +162,7 @@
     <MESSAGE value="new commit-01" />
     <MESSAGE value="new commit-02" />
     <MESSAGE value="new commit-03" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit-03" />
+    <MESSAGE value="memcached" />
+    <option name="LAST_COMMIT_MESSAGE" value="memcached" />
   </component>
 </project>
